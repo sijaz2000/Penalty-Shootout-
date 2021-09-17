@@ -1,5 +1,5 @@
 Project Title: Soccer Penalty Shootout
-Salman Ijaz 
+Salman Ijaz, Graham Elliot, Curran Middleton 
 
 Project Description:
 Our project provides a penalty shootout soccer game. There are targets placed in the goal, and the user chooses one of the targets to shoot the ball. The goalie icon will randomly choose one of these targets as the spot where they move to. There will be 5 shot attempts, and after those 5 attempts the console will display the amount of goals that were scored. 
