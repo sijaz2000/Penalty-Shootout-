@@ -97,7 +97,7 @@ public class PenaltyGame {
      * Incrments the value of count. 
      */
     private void resetGame() {
-        canvas.pause(500);
+        canvas.pause(1500);
         canvas.remove(ball.getImage());
         canvas.remove(goalKeeper.getImage());
         goalKeeper = new Goalkeeper(400,300,canvas);
