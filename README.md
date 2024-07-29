@@ -12,7 +12,7 @@ The game was built using Java 11 and Macalester-Specific Graphic API.
 
 ## Demo
 <div align="center">
-  <img src="[https://example.com/path/to/your/image.gif](https://github.com/sijaz2000/Penalty-Shootout-/blob/main/Penalty%20Shootout/res/PenaltyShootDemo.gif)" alt="Penalty Shootout GIF">
+  <img src="https://raw.githubusercontent.com/sijaz2000/Penalty-Shootout-/main/Penalty%20Shootout/res/PenaltyShootDemo.gif" alt="Penalty Shootout GIF">
 </div>
 
 
